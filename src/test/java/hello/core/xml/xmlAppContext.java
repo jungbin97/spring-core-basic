@@ -16,5 +16,4 @@ public class xmlAppContext {
         assertThat(memberService).isInstanceOf(MemberService.class);
     }
 
-
 }
